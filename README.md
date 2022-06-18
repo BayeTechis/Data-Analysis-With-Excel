@@ -25,17 +25,17 @@ Explored:
 
 - sorted the number of employees that have no overtime pay
 
- -created a column only containing the first name of the employees
+- created a column only containing the first name of the employees
 
--fetched  the employee names for the following ids using use Vlookup
+- fetched  the employee names for the following ids using use Vlookup
 
 41201, 96696, 54353, 99212, 42343, 16140, 44771, 24685, 29835, 16805, 82878, 64706, 69071, 33504, 23473, 62822, 28294, 46132, 100236, 39748, 41772, 95704, 97795, 45078, 94007, 107551, 48453, 73463, 60771, 13573, 79153, 107495, 15284
 
 - Filtered and sorted the Pivot to show the 5 employees who earned the highest Base Pay in 2011. Who they were
 
--added a calculated field named "% Other Pay" (Other Pay/Total Pay), formatted as a percentage with 1 decimal. 
+- added a calculated field named "% Other Pay" (Other Pay/Total Pay), formatted as a percentage with 1 decimal
 
--among employees with >=$100k Base Pay in 2012, checked if any employee earn more than 50% of their salary from Other Pay
+- among employees with >=$100k Base Pay in 2012, checked if any employee earn more than 50% of their salary from Other Pay
 
 **Baseball Team Stats**
 
